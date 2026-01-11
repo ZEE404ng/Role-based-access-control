@@ -1,0 +1,8 @@
+POST http://localhost:7005/api/auth/login
+Content-Type: application/json
+
+{
+    "username": "Yezeed",
+    "password": "123456"
+    
+}
